@@ -1,0 +1,3 @@
+[submodule "xres-code-generator"]
+	path = xres-code-generator
+	url = https://github.com/jcmiao/xres-code-generator.git
